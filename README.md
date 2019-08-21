@@ -1,18 +1,18 @@
-# Privilege-Escalation-Cheatsheet-Vulnhub-
+# Privilege Escalation Cheatsheet (Vulnhub)
 This is a Cheatsheet for CTF Challenges categorized by different Privilege Escalation Methods
 
 1.	[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-challenge/)
 2.	[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)
 3.	[21 LTR: Scene1](https://www.hackingarticles.in/hack-the-21ltr-scene-1-vm-boot-to-root/)
-4.	Kioptrix : Level 1.2
-5.	Skytower 
-6.	Fristileaks
-7.	Breach 2.1
-8.	Zico 2
-9.	RickdiculouslyEasy
-10.	Dina
-11.	Depth
-12.	The Ether: Evil Science 
+4.	[Kioptrix : Level 1.2](https://www.hackingarticles.in/hack-the-kioptrix-level-1-2-boot2root-challenge/)
+5.	Skytower]
+6.	Fristileaks]
+7.	Breach 2.1]
+8.	Zico 2]
+9.	RickdiculouslyEasy]
+10.	Dina]
+11.	Depth]
+12.	The Ether: Evil Science]
 13.	Basic penetration
 14.	DerpNStink
 15.	W1R3S.inc
