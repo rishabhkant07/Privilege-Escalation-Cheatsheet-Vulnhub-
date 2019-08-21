@@ -5,7 +5,7 @@ This is a Cheatsheet for CTF Challenges categorized by different Privilege Escal
 2.	[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)
 3.	[21 LTR: Scene1](https://www.hackingarticles.in/hack-the-21ltr-scene-1-vm-boot-to-root/)
 4.	[Kioptrix : Level 1.2](https://www.hackingarticles.in/hack-the-kioptrix-level-1-2-boot2root-challenge/)
-5.	[Skytower] (https://www.hackingarticles.in/hack-the-skytower-ctf-challenge/)
+5.	[Skytower](https://www.hackingarticles.in/hack-the-skytower-ctf-challenge/)
 6.	[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-challenge/)
 7.	[Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-challenge/)
 8.	[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-challenge/)
