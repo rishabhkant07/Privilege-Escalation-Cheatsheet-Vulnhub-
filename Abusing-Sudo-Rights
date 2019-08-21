@@ -1,7 +1,7 @@
 This List contains various Vulnhub Labs, on which attackers have to abuse Sudo rights in order to Esacalte Privilege and Get the root
 shell on the machine. 
 
-1.	Holynix: v1
+1.	[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-challenge/)
 2.	DE-ICE:S1.120
 3.	21 LTR: Scene1
 4.	Kioptrix : Level 1.2
