@@ -3,7 +3,7 @@ This is a Cheatsheet for CTF Challenges categorized by different Privilege Escal
 
 1.	[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-challenge/)
 2.	[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)
-3.	21 LTR: Scene1
+3.	[21 LTR: Scene1](https://www.hackingarticles.in/hack-the-21ltr-scene-1-vm-boot-to-root/)
 4.	Kioptrix : Level 1.2
 5.	Skytower 
 6.	Fristileaks
