@@ -1,4 +1,4 @@
-This List[http://www.hackingarticles.in] contains various Vulnhub Labs, on which attackers have to abuse Sudo rights in order to Escalte Privilege and Get the root shell on the machine. 
+This List contains various Vulnhub Labs, on which attackers have to abuse Sudo rights in order to Escalte Privilege and Get the root shell on the machine. 
 
 1.	Holynix: v1
 2.	DE-ICE:S1.120
