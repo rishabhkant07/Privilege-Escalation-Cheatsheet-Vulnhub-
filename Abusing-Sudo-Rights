@@ -1,3 +1,4 @@
-This List contains various Vulnhub Labs, on which attackers have to abuse Sudo rights in order to Esacalte Privilege and Get the root shell on the machine. 
+This List contains various Vulnhub Labs, on which attackers have to abuse Sudo rights in order to Escalte Privilege and Get the root shell on the machine. 
 
-(Holynix: v1)[https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-challenge/]
+[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-challenge/)
+[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)
